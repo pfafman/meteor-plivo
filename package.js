@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Plivo telephony framework wrapper for Meteor",
-  version: "1.0.3",
+  version: "1.1.0",
   git: "http://github.com/pfafman/meteor-plivo.git"
 });
 
